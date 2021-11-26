@@ -7,7 +7,7 @@
 // • Identify when type checking happens
 // • Afterwards we will analyze transpiler output
 
-const exerciseOne = () => {
+const exerciseOne= ():void => {
     // ======== Exercise 1.1 ========
     // Instructions:
     // • Hover over red squigglies to inspect the TS errors.
@@ -105,4 +105,4 @@ const exerciseOne = () => {
     }
   }
   
-  exerciseOne()
+ exerciseOne()
