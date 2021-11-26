@@ -6,8 +6,8 @@
 // • Annotate primitive types, arrays, and 'any' types
 // • Identify when type checking happens
 // • Afterwards we will analyze transpiler output
-
-const exerciseOne= ():void => {
+export {};
+const exerciseOne = () => {
     // ======== Exercise 1.1 ========
     // Instructions:
     // • Hover over red squigglies to inspect the TS errors.

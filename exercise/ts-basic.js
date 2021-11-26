@@ -1,10 +1,8 @@
+"use strict";
 // ⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇⏇
 //   Exercise 1 – Basic Types
 // ⏈⏈⏈⏈⏈⏈⏈⏈⏈⏈⏈⏈⏈⏈⏈⏈⏈⏈⏈⏈⏈⏈⏈⏈⏈⏈⏈⏈
-// Objectives: 
-// • Annotate primitive types, arrays, and 'any' types
-// • Identify when type checking happens
-// • Afterwards we will analyze transpiler output
+exports.__esModule = true;
 var exerciseOne = function () {
     // ======== Exercise 1.1 ========
     // Instructions:
